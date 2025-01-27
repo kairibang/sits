@@ -1,8 +1,0 @@
-tables
-accounts.sql
-partners.sql
-products.sql
-- ID
-- SERIAL
-- MODEL
-- DESC
